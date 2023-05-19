@@ -1,0 +1,15 @@
+{
+  "name": "projeto-cypress",
+  "version": "1.0.0",
+  "description": "Projeto com Cypres - Revisão de conceitos",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Edson Souza",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0",
+    "mochawesome": "^7.1.3"
+  }
+}

@@ -1,0 +1,24 @@
+[
+    
+{
+    "email": "brams.toker@dracula.com",
+    "fullName": "Bram Stoker",
+    "userName": "bramstk",
+    "password": "dracula"
+},
+{
+    "email": "mary.shelley@frankstein.com",
+    "fullName": "Mary Shelley",
+    "userName": "maryshl",
+    "password": "prometeu"
+
+},
+{
+    "email": "edgar.apoe@theraven.com",
+    "fullName": "Edgar A. Poe",
+    "userName": "edgarpoe",
+    "password": "theraven"
+
+}
+
+]
